@@ -1,88 +1,137 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"> Hi, I'm Sunkari Venkata Ramanjaneyulu  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F79C&width=750&lines=Final+Year+B.Tech+%7C+CSE;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;Problem+Solver+%7C+Continuous+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F79C&width=820&lines=Final+Year+B.Tech+%7C+CSE+(AI);AI+%26+ML+Engineer+in+the+Making;Computer+Vision+%7C+LLMs+%7C+Full+Stack;Building+Production-Ready+AI+Systems)](https://git.io/typing-svg)
 
-🎓 **Final Year B.Tech – Computer Science Engineering (AI Focus)**  
+🎓 **Final Year B.Tech – Computer Science Engineering (AI)**  
 🏫 **Parul University | 2022 – 2026**  
-💻 **AI, Machine Learning & Full-Stack Development Enthusiast**  
-🚀 Passionate about building real-world, scalable tech solutions  
+🚀 **AI Engineer | ML | Computer Vision | Full-Stack Developer**  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=2203031241259&label=Profile%20Views&color=0e75b6&style=flat)
+![GitHub Followers](https://img.shields.io/github/followers/2203031241259?label=Followers&style=social)
 
 ---
 
-## 💡 About Me
-I’m a **final-year Computer Science Engineering student** with a strong interest in **Artificial Intelligence, Machine Learning, and Full-Stack Development**.  
+## 🧠 About Me
+I am a **final-year AI-focused Computer Science student** passionate about building  
+**real-world, scalable, and production-ready AI systems**.
 
-I enjoy transforming **complex problems into efficient, real-world solutions** using modern technologies. From developing **AI-powered systems** to building **end-to-end applications**, I focus on writing clean, scalable, and impactful code.  
+I work at the intersection of:
+- 🤖 **Artificial Intelligence & Machine Learning**
+- 👁️ **Computer Vision & Object Detection**
+- 🌐 **End-to-End Full-Stack Applications**
 
-I am a **continuous learner**, always exploring new tools, frameworks, and industry best practices to stay ahead in the evolving tech landscape.
-
----
-
-## 🛠️ Technical Skills
-
-### Programming Languages
-- **Python**, **Java**, **C**, **C++**
-
-### Web Development
-- **HTML5**, **CSS3**, **JavaScript**
-
-### AI / Machine Learning
-- **TensorFlow**, **Keras**, **OpenCV**
-- CNNs, Image Classification, Computer Vision
-
-### Databases
-- **SQL**, **MongoDB**
+I believe in **learning by building**, writing **clean architecture**, and solving **real problems with AI**.
 
 ---
 
-## 🚀 Projects
+## 🛠️ Tech Stack (Visual Overview)
 
-### 🖼️ Image Classification using CNN
-- Designed and trained a **Convolutional Neural Network** to classify images accurately.
-- Applied data preprocessing, model optimization, and performance evaluation.
-- **Tech Stack:** Python, TensorFlow, Keras  
-🔗 **Repository:** https://github.com/2203031241259
+
+::contentReference[oaicite:1]{index=1}
+
+
+### 👨‍💻 Languages
+`Python` `Java` `C` `C++` `JavaScript`
+
+### 🤖 AI / ML
+- TensorFlow · Keras · PyTorch (Basics)
+- CNNs · Computer Vision · YOLO
+- NLP Fundamentals · Prompt Engineering
+
+### 🌐 Full Stack
+- HTML · CSS · JavaScript
+- React.js (Basics) · Node.js
+- REST APIs · JSON
+
+### ⚙️ Tools
+- Git · GitHub · Linux
+- Docker (Basics) · n8n Automation
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 AI Interview Coach (FLAGSHIP PROJECT)
+
+::contentReference[oaicite:2]{index=2}
+
+
+- AI-powered system that **simulates technical & HR interviews**
+- Provides **NLP-based feedback** and improvement suggestions
+- Focused on **real interview readiness**
+- **Tech:** Python · NLP · LLM APIs  
+
+🔗 Repo: https://github.com/2203031241259
 
 ---
 
 ### 🚗 Real-Time Vehicle Speed Detection System
-- Built a **computer vision–based system** to estimate vehicle speed from live video feeds.
-- Implemented object detection and tracking for real-time performance.
-- **Tech Stack:** Python, OpenCV, Machine Learning  
-🔗 **Repository:** https://github.com/2203031241259
+
+::contentReference[oaicite:3]{index=3}
+
+
+- Real-time **vehicle detection, tracking & speed estimation**
+- Uses **YOLO + OpenCV** for high accuracy
+- Designed for **live camera feeds**
+- **Tech:** Python · OpenCV · YOLO · ML  
+
+🔗 Repo: https://github.com/2203031241259
+
+---
+
+### 🖼️ Image Classification using CNN
+
+::contentReference[oaicite:4]{index=4}
+
+
+- Deep learning CNN model for **multi-class image classification**
+- Applied **data augmentation & hyperparameter tuning**
+- **Tech:** Python · TensorFlow · Keras  
+
+🔗 Repo: https://github.com/2203031241259
+
+---
+
+### 🔗 URL Shortener Microservice
+
+::contentReference[oaicite:5]{index=5}
+
+
+- Scalable **REST-based microservice**
+- URL analytics & logging middleware
+- **Tech:** Node.js · Express · MongoDB  
+
+🔗 Repo: https://github.com/2203031241259
 
 ---
 
 ## 📜 Certifications
-- Artificial Intelligence  
-- Machine Learning  
-- Data Science  
-- GPT-3, NLP & Prompt Engineering (NVIDIA)  
-- Computer Networks  
+- Artificial Intelligence
+- Machine Learning
+- Data Science
+- GPT-3, NLP & Prompt Engineering – **NVIDIA**
+- Computer Networks
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=2203031241259&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=2203031241259&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=2203031241259&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=2203031241259&show_icons=true&theme=tokyonight)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=2203031241259&layout=compact&theme=tokyonight)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=2203031241259&theme=tokyonight)
 
 ---
 
-## 📈 Contribution Activity
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=2203031241259&theme=tokyo-night)
+## 📈 Contribution Graph
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=2203031241259&theme=tokyo-night)
 
 ---
 
 ## 📫 Connect With Me
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/2203031241259)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunkari-venkata-ramanjaneyulu-22934a25a/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2203031241259@paruluniversity.ac.in)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/2203031241259)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sunkari-venkata-ramanjaneyulu-22934a25a/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:2203031241259@paruluniversity.ac.in)
 
 ---
 
-⭐ **Thanks for visiting my profile!**  
-Feel free to explore my repositories, collaborate on projects, or connect for opportunities.
+⭐ **Open to AI Internships | Full-Time Roles | Open-Source | Research**
