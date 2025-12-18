@@ -1,82 +1,79 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"> Hi there, I'm Sunkari Venkata Ramanjaneyulu
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"> Hi, I'm Sunkari Venkata Ramanjaneyulu  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F79C&width=700&lines=Final+Year+B.Tech+%7C+Computer+Science+Engineering;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;Problem+Solver+%7C+Tech+Explorer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F79C&width=750&lines=Final+Year+B.Tech+%7C+CSE;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;Problem+Solver+%7C+Continuous+Learner)](https://git.io/typing-svg)
 
-🎓 **Final Year B.Tech - Computer Science Engineering** at **Parul University**  
-💻 Passionate about AI, Machine Learning, and Full-Stack Development  
-🌱 Always learning and building solutions that make an impact  
+🎓 **Final Year B.Tech – Computer Science Engineering (AI Focus)**  
+🏫 **Parul University | 2022 – 2026**  
+💻 **AI, Machine Learning & Full-Stack Development Enthusiast**  
+🚀 Passionate about building real-world, scalable tech solutions  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=2203031241259&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
 ## 💡 About Me
-Hi, I’m **Sunkari Venkata Ramanjaneyulu**, a final-year CSE student with a passion for building technology that matters.  
-I love turning **complex problems into simple, efficient solutions** — whether it’s through **AI & Machine Learning**, **full-stack development**, or creative coding projects.  
-I believe learning never stops, and I’m constantly exploring new tools, frameworks, and ideas to stay ahead in the ever-evolving tech landscape.  
-My mission is simple: **to create solutions that solve real problems and make an impact**.  
+I’m a **final-year Computer Science Engineering student** with a strong interest in **Artificial Intelligence, Machine Learning, and Full-Stack Development**.  
+
+I enjoy transforming **complex problems into efficient, real-world solutions** using modern technologies. From developing **AI-powered systems** to building **end-to-end applications**, I focus on writing clean, scalable, and impactful code.  
+
+I am a **continuous learner**, always exploring new tools, frameworks, and industry best practices to stay ahead in the evolving tech landscape.
 
 ---
 
-## 🚀 Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+## 🛠️ Technical Skills
+
+### Programming Languages
+- **Python**, **Java**, **C**, **C++**
+
+### Web Development
+- **HTML5**, **CSS3**, **JavaScript**
+
+### AI / Machine Learning
+- **TensorFlow**, **Keras**, **OpenCV**
+- CNNs, Image Classification, Computer Vision
+
+### Databases
+- **SQL**, **MongoDB**
 
 ---
 
-## 📂 Projects
+## 🚀 Projects
 
-### 🖼 Image Classification with CNN
-- Built a Convolutional Neural Network to classify images into different categories.  
+### 🖼️ Image Classification using CNN
+- Designed and trained a **Convolutional Neural Network** to classify images accurately.
+- Applied data preprocessing, model optimization, and performance evaluation.
 - **Tech Stack:** Python, TensorFlow, Keras  
-- [🔗 View Project](https://github.com/2203031241259)
+🔗 **Repository:** https://github.com/2203031241259
+
+---
 
 ### 🚗 Real-Time Vehicle Speed Detection System
-- Developed a real-time system to detect vehicle speeds using computer vision.  
+- Built a **computer vision–based system** to estimate vehicle speed from live video feeds.
+- Implemented object detection and tracking for real-time performance.
 - **Tech Stack:** Python, OpenCV, Machine Learning  
-- [🔗 View Project](https://github.com/2203031241259)
+🔗 **Repository:** https://github.com/2203031241259
 
 ---
 
 ## 📜 Certifications
+- Artificial Intelligence  
 - Machine Learning  
 - Data Science  
-- GPT-3, NLP, Prompt Engineering (NVIDIA)  
-- Artificial Intelligence  
+- GPT-3, NLP & Prompt Engineering (NVIDIA)  
 - Computer Networks  
 
 ---
 
-## 📊 GitHub Stats & Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=2203031241259&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=2203031241259&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=2203031241259&theme=tokyonight)  
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=2203031241259&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=2203031241259&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=2203031241259&theme=tokyonight)
 
 ---
 
-## 📈 Activity Graph
+## 📈 Contribution Activity
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=2203031241259&theme=tokyo-night)
-
----
-
-## 📢 Latest Repositories
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 💬 Quote of the Day
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
@@ -87,4 +84,5 @@ My mission is simple: **to create solutions that solve real problems and make an
 
 ---
 
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me for collaborations or opportunities.*
+⭐ **Thanks for visiting my profile!**  
+Feel free to explore my repositories, collaborate on projects, or connect for opportunities.
